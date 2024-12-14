@@ -21,7 +21,7 @@ collection.forEach(book => {
       <h3 class="book-item_title">${book.title}</h3>
       <p class="author">by ${book.author} &bull; ${book.published}</p>
       <p>${book.synopsis}</p>
-      <a href="#" class="button">Details</a>
+      <a href="${book.url}" target="_blank" class="button">Visitar</a>
     </div>
   `;
 

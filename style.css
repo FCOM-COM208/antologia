@@ -474,9 +474,10 @@ a.button:hover, a.button:focus {
     padding-right: 30px;
 }
 .book-item h3 {
-    white-space: nowrap;
+    white-space: break-spaces;
     overflow: hidden;
-    text-overflow: ellipsis;
+    /*text-overflow: ellipsis;*/
+    line-height: 22px;
 }
 .book-item p:not(.author) {
     display: block;
