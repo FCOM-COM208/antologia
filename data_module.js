@@ -12,7 +12,7 @@ collection.forEach(book => {
       <div class="bk-wrapper">
         <div class="bk-book bk-bookdefault">
           <div class="bk-front">
-            <div class="bk-cover" style="background-image: url('${book.coverSmall}')"></div>
+            <div class="bk-cover" style="background-image: url('${book.coverSmall}'); background-size: cover;"></div>
           </div>
         </div>
       </div>

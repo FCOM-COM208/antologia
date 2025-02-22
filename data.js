@@ -4,7 +4,7 @@ const collection = [
     "author": "Antonia Correa, Valentina Rojas, Francisca Martínez",
     "published": '2024-02',
     "categories": ["música", "entretenimiento", "mujeres"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/sonido-femenino.png",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://panchiscaa.github.io/Aumento-de-la-presencia-femenina-en-la-musica-urbana-chilena/",
     "synopsis": "Explora cómo las colaboraciones están impulsando a las artistas urbanas chilenas."
@@ -14,18 +14,18 @@ const collection = [
     "author": "Aline Bergen, Cristóbal Ramírez, Danitza Sandrock",
     "published": '2024-02',
     "categories": ["medioambiente", "cambio climático", "sociedad"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/verde.png",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://nani0609.github.io/proyecto-verde/",
-    "synopsis": "Analiza la desigualdad y dificultades que enfrentan las comunidades más vulnerables en el acceso a" +
-        " áreas verdes en la región Metropolitana ."
+    "synopsis": "Analiza la desigualdad de las comunidades más vulnerables en el acceso a" +
+        " áreas verdes ."
   },
   {
     "title": "El imperio de la pizza",
     "author": "Alhena Arce, Katherine Bobadilla, Rocío Villalón",
     "published": '2024-02',
     "categories": ["negocios", "gastronomía", "entretenimiento"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/pizza.jpeg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://rociovillalon.github.io/Mercado-de-pizzas-en-Chile-Arce-Bobadilla-y-Villal-n/",
     "synopsis": "Un recorrido por el mercado de pizzas en Chile y su crecimiento exponencial."
@@ -35,7 +35,7 @@ const collection = [
     "author": "Gabriela López, Fernanda Rivera, Antonia Walker",
     "published": '2024-02',
     "categories": ["cultura", "sociedad", "literatura", "entretenimiento"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/paginas.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://fariver.github.io/Proyecto-Chile-en-Paginas/",
     "synopsis": "Una radiografía del acceso a la literatura a través del Servicio Nacional de Bibliotecas" +
@@ -46,7 +46,7 @@ const collection = [
     "author": "Martín González, Diego Barrera, Trinidad Paredes",
     "published": '2024-02',
     "categories": ["deporte", "fútbol"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/juego-oculto.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://martingonzaleznovoa.github.io/Pagina-Funcional-/",
     "synopsis": "Análisis del sistema de las agencias de jugadores de fútbol en Chile y cómo influyen en el mercado."
@@ -56,7 +56,7 @@ const collection = [
     "author": "Alanis Arancibia, Constanza Mora, Isidora Flores",
     "published": '2024-02',
     "categories": ["literatura", "mercado", "entretenimiento", "cultura"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/booktok.png",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://isifloresm.github.io/Proyecto-booktok/",
     "synopsis": "Explora el impacto de las redes sociales en la literatura y el mercado editorial."
@@ -66,17 +66,17 @@ const collection = [
     "author": "Michelle Gamboa, Constanza Inostroza, Angela Poblete",
     "published": '2024-02',
     "categories": ["salud", "sociedad"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/envejecimiento.png",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://angelapobb.github.io/grupo/",
-    "synopsis": "Una mirada profunda al envejecimiento en el sur de Chile y sus desafíos en salud."
+    "synopsis": "Una mirada al envejecimiento en el sur de Chile y sus desafíos en salud."
   },
   {
     "title": "La batalla contra las bolsas plásticas",
     "author": "María José Jiménez, Victoria Silva, Blanca Ward",
     "published": '2024-02',
     "categories": ["medioambiente"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/bolsas.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://majo10-jr.github.io/trabajo-semestral/",
     "synopsis": "Un análisis del impacto de las bolsas plásticas en los océanos y las medidas para combatirlo."
@@ -86,7 +86,7 @@ const collection = [
     "author": "Cecilia Vidal, Daniel Gaete, Vicente Lueiza",
     "published": '2024-02',
     "categories": ["sociedad", "crimen"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/navajas.png",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://cecivugarte.github.io/Repo_Barber-a_Equipo0/",
     "synopsis": "Explora la potencial relación entre el aumento de las barberías y el crimen organizado en Chile."
@@ -96,7 +96,7 @@ const collection = [
     "author": "Dominga Krotik, Teresa Leiva, Valentina Zaldívar",
     "published": '2024-02',
     "categories": ["derechos humanos", "sociedad", "mujeres"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/carcel.png",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://domingakp.github.io/Proyecto-Grafica/",
     "synopsis": "Un análisis de las condiciones de las mujeres privadas de libertad en Chile en relación a la" +
@@ -107,9 +107,9 @@ const collection = [
     "author": "Francisca Aldana, Margarita Bernales, María Paz Martínez",
     "published": '2024-02',
     "categories": ["medioambiente", "clima"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-02/tornados.png",
     "coverLarge": "https://picsum.photos/200/300",
-    "url": "https://franaldana.github.io/paginadefinitiva/",
+    "url": "https://franaldana.github.io/masalladelavelocidad/",
     "synopsis": "Una mirada a un nuevo índice para medir el impacto de los huracanes en el continente americano."
   },
   {
@@ -117,7 +117,7 @@ const collection = [
     "author": "Mario Ortiz, Felipe Mateluna",
     "published": '2024-01',
     "categories": ["sociedad", "entretenimiento", "deporte"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/basketball.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://pipemd.github.io/proyecto-grafica/",
     "synopsis": "Un ensayo profundo sobre las distintas clases de éxito que poseen los equipos de la NBA (basquetbol)."
@@ -127,7 +127,7 @@ const collection = [
     "author": "Belén Farías, Anelisse Lima",
     "published": '2024-01',
     "categories": ["migración", "sociedad"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/migrantes.png",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://belufar.github.io/huellas_migratorias/",
     "synopsis": "Un artículo que caracteriza la migración en Chile siguiendo los rastros del camino que recorrieron" +
@@ -138,7 +138,7 @@ const collection = [
     "author": "Francisco Concha, Vicente Rodríguez, María Ignacia Olave",
     "published": '2024-01',
     "categories": ["salud mental", "bienestar", "deporte", "salud"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/mente.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://frcoconcha.github.io/RODRIGUEZCONCHAOLAVE/",
     "synopsis": "Aborda la salud mental y el bienestar a través de su relación con la actividad física."
@@ -148,7 +148,7 @@ const collection = [
     "author": "Ignacio Muñoz, Martín Silva, Cristóbal Navarro",
     "published": '2024-01',
     "categories": ["fútbol", "deporte"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/futbol-dorada.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://ignaciomunozm.github.io/Grupo-Futbol/",
     "synopsis": "Una mirada al legado y la influencia de la Generación Dorada del fútbol chileno."
@@ -158,27 +158,27 @@ const collection = [
     "author": "María Candelaria Fresno, Agustín Piza, Antonia Villalobos",
     "published": '2024-01',
     "categories": ["violencia", "sociedad", "crimen"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/tiroteos.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://mcandelariaf.github.io/proyecto-grafica/",
-    "synopsis": "Radiografía a los eventos de tiro en masa en Estados Unidos."
+    "synopsis": "Radiografía a los eventos de tiroteo en masa en Estados Unidos."
   },
   {
     "title": "Delitos Violentos",
     "author": " Pablo Correa, Cristopher Aguilera",
     "published": '2024-01',
     "categories": ["crimen", "sociedad"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/delitos.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://cr20is.github.io/Webstory/",
     "synopsis": "Un estudio sobre los delitos violentos y sus impactos en las comunidades chilenas."
   },
   {
-    "title": "El peor amigo del Pudú",
+    "title": "El peor enemigo del Pudú",
     "author": "José Gubbins, Agustín Gonzalez, Sebastián Cornejo",
     "published": '2024-01',
     "categories": ["medioambiente", "fauna"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/pudu.png",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://angurrie.github.io/final/",
     "synopsis": "Explora las amenazas al pudú, el pequeño ciervo nativo de Chile."
@@ -188,7 +188,7 @@ const collection = [
     "author": "Benjamín Chávez",
     "published": '2024-01',
     "categories": ["política", "elecciones"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/urnas.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://bachaveztob.github.io/RLU/",
     "synopsis": "Análisis de los partidos políticos que han existido en Chile (desde 1990)."
@@ -198,7 +198,7 @@ const collection = [
     "author": "Marcia Belmar",
     "published": '2024-01',
     "categories": ["medioambiente", "agua"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/sequia.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://marciabelmar.github.io/Crisis-hidrica/",
     "synopsis": "Estudio sobre la crisis hídrica en Chile y su impacto en la región del Ñuble"
@@ -208,7 +208,7 @@ const collection = [
     "author": "Adriana Martínez",
     "published": '2024-01',
     "categories": ["deporte", "mujeres"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/roja-femenina.jpeg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://adriana321.github.io/Prueba06.github.io/",
     "synopsis": "Radiografía a las jugadoras de la selección femenina de fútbol chilena."
@@ -218,7 +218,7 @@ const collection = [
     "author": "Augusta Somarriva, Valentina Muñoz, Consuelo Díaz",
     "published": '2024-01',
     "categories": ["e-commerce", "mujeres"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/tallas.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://valentinamunoz5.github.io/Las-Peluqueras-/#Las%20mujeres%20chilenas%20y%20el%20Ecommerce",
     "synopsis": "Analiza el rol de las mujeres chilenas en el comercio electrónico."
@@ -228,7 +228,7 @@ const collection = [
     "author": "Joaquín Astaburuaga, Philippa Smith, Laura Valdés",
     "published": '2024-01',
     "categories": ["salud", "derechos humanos"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/aborto.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://jastachile.github.io/RepoAstaburuagaSmithValdes/",
     "synopsis": "Una exploración de los sistemas de salud en torno al aborto en el mundo."
@@ -238,7 +238,7 @@ const collection = [
     "author": "Josefina Arntz, Agustina Carroza, Tomás Schneider",
     "published": '2024-01',
     "categories": ["streaming", "mercado"],
-    "coverSmall": "https://picsum.photos/200/300",
+    "coverSmall": "./covers-img/2024-01/netflix.jpg",
     "coverLarge": "https://picsum.photos/200/300",
     "url": "https://josefinarntz.github.io/Schneider-Carroza-Arntz/",
     "synopsis": "Explora el impacto de Netflix en la industria del streaming."
@@ -248,8 +248,8 @@ const collection = [
     "author": "Edward Jimenez, Jorge Fuentes, Agustín Monsalve",
     "published": '2023-02',
     "categories": ["economía", "corrupción", "deporte"],
-    "coverSmall": "https://cuchorico.github.io/Entrega_JimenezFuentesMonsalve/",
-    "coverLarge": "https://cuchorico.github.io/Entrega_JimenezFuentesMonsalve/",
+    "coverSmall": "./covers-img/2023-02/deporte.png",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://cuchorico.github.io/Entrega_JimenezFuentesMonsalve/",
     "synopsis": "Una investigación sobre el uso de la inversión en deporte."
   },
@@ -258,9 +258,9 @@ const collection = [
     "author": "Cristinne Francois, Catalina Rojas, Matías Torres",
     "published": '2023-02',
     "categories": ["política", "crisis"],
-    "coverSmall": "https://cristinnef.github.io/pagina%203.html",
-    "coverLarge": "https://cristinnef.github.io/pagina%203.html",
-    "url": "https://cristinnef.github.io/pagina%203.html",
+    "coverSmall": "./covers-img/2023-02/dc.png",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://cristinnef.github.io/",
     "synopsis": "Un análisis sobre la crisis interna del partido Democracia Cristiana en Chile."
   },
   {
@@ -268,8 +268,8 @@ const collection = [
     "author": "Pablo Mora, María José Salazar",
     "published": '2023-02',
     "categories": ["medioambiente", "crisis climática"],
-    "coverSmall": "https://pablomoraa.github.io/",
-    "coverLarge": "https://pablomoraa.github.io/",
+    "coverSmall": "./covers-img/2023-02/planeta.png",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://pablomoraa.github.io/",
     "synopsis": "Una reflexión sobre el impacto de la dieta en el cambio climático."
   },
@@ -278,8 +278,8 @@ const collection = [
     "author": "Luka Miller, Nicolás Stevenson, Vicente Tapia",
     "published": '2023-02',
     "categories": ["música", "entretenimiento"],
-    "coverSmall": "https://lukavmiller13.github.io/Genero_Urbano_el_boom_latino/",
-    "coverLarge": "https://lukavmiller13.github.io/Genero_Urbano_el_boom_latino/",
+    "coverSmall": "./covers-img/2023-02/boom-musica.jpg",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://lukavmiller13.github.io/Genero_Urbano_el_boom_latino/",
     "synopsis": "Explora cómo el género urbano se ha convertido en un fenómeno cultural global."
   },
@@ -288,8 +288,8 @@ const collection = [
     "author": "Alondra Henríquez, Victoria García, Arlette Fernández",
     "published": '2023-02',
     "categories": ["política", "mujeres"],
-    "coverSmall": "https://arlette002.github.io/voces-en-acci-n/",
-    "coverLarge": "https://arlette002.github.io/voces-en-acci-n/",
+    "coverSmall": "./covers-img/2023-02/mujeres.jpeg",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://arlette002.github.io/voces-en-acci-n/",
     "synopsis": "Una mirada al liderazgo político de mujeres chilenas en roles municipales."
   },
@@ -298,8 +298,8 @@ const collection = [
     "author": "Martina Núñez, Jorge Gálvez, Juan Flores",
     "published": '2023-02',
     "categories": ["música", "cultura", "entretenimiento"],
-    "coverSmall": "https://martinanunez.github.io/Proyecto_Musica_Urbana/",
-    "coverLarge": "https://martinanunez.github.io/Proyecto_Musica_Urbana/",
+    "coverSmall": "./covers-img/2023-02/ultrapegados.png",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://martinanunez.github.io/Proyecto_Musica_Urbana/",
     "synopsis": "Explora el alza de la música urbana en Chile desde 2020"
   },
@@ -308,8 +308,8 @@ const collection = [
     "author": "Catalina Aliste, Felipe Bustos, Francisca Aqueveque",
     "published": '2023-02',
     "categories": ["fauna", "medioambiente"],
-    "coverSmall": "https://felinesio.github.io/Proyecto-Felinos-End-micos/",
-    "coverLarge": "https://felinesio.github.io/Proyecto-Felinos-End-micos/",
+    "coverSmall": "./covers-img/2023-02/gatos.png",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://felinesio.github.io/Proyecto-Felinos-End-micos/",
     "synopsis": "Un proyecto dedicado a los felinos endémicos y su conservación en Chile."
   },
@@ -318,8 +318,8 @@ const collection = [
     "author": "María Magdalena Ariztía, María Paz Naudon, Catalina Gallego",
     "published": '2023-02',
     "categories": ["medioambiente", "legislación"],
-    "coverSmall": "https://mariztial.github.io/nudo-ecologico/",
-    "coverLarge": "https://mariztial.github.io/nudo-ecologico/",
+    "coverSmall": "./covers-img/2023-02/nudo.jpg",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://mariztial.github.io/nudo-ecologico/",
     "synopsis": "Un análisis de la Ley 21.100 (plásticos) y su impacto en el cuidado del medioambiente."
   },
@@ -328,8 +328,8 @@ const collection = [
     "author": "Victoria Yeme, Felipe Gallet",
     "published": '2023-02',
     "categories": ["gastronomía", "sostenibilidad"],
-    "coverSmall": "https://victoriayeme.github.io/Entregas/",
-    "coverLarge": "https://victoriayeme.github.io/Entregas/",
+    "coverSmall": "./covers-img/2023-02/vino.png",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://victoriayeme.github.io/Entregas/",
     "synopsis": "Explora el desarrollo de la producción de vinos sustentables en Chile."
   },
@@ -338,8 +338,8 @@ const collection = [
     "author": "Tamara Soto, Rosario Hono",
     "published": '2023-02',
     "categories": ["animales", "sociedad"],
-    "coverSmall": "https://rohono.github.io/encargo_06/",
-    "coverLarge": "https://rohono.github.io/encargo_06/",
+    "coverSmall": "./covers-img/2023-02/patitas.webp",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://rohono.github.io/encargo_06/",
     "synopsis": "Promueve la tenencia responsable de mascotas y la protección animal."
   },
@@ -348,9 +348,9 @@ const collection = [
     "author": "Dorys Aroca, Maximiliano Jaque, Trinidad Maldonado",
     "published": '2023-02',
     "categories": ["televisión", "entretenimiento"],
-    "coverSmall": "https://dsaroca.github.io/Proyecto/Estrellas.html",
-    "coverLarge": "https://dsaroca.github.io/Proyecto/Estrellas.html",
-    "url": "https://dsaroca.github.io/Proyecto/Estrellas.html",
+    "coverSmall": "./covers-img/2023-02/reality.png",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://dsaroca.github.io/Proyecto/",
     "synopsis": "Analiza y Tipifica los personajes más clásicos de reality."
   },
   {
@@ -358,8 +358,8 @@ const collection = [
     "author": "Amanda Astudillo, Sergio Baquedano, Magdalena Soublette",
     "published": '2023-02',
     "categories": ["moda", "sostenibilidad"],
-    "coverSmall": "https://msoublette.github.io/Repo_proyecto_equipo/#inicio",
-    "coverLarge": "https://msoublette.github.io/Repo_proyecto_equipo/#inicio",
+    "coverSmall": "./covers-img/2023-02/marcas.jpeg",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://msoublette.github.io/Repo_proyecto_equipo/#inicio",
     "synopsis": "Explora cómo las marcas chilenas están adoptando la sustentabilidad."
   },
@@ -368,8 +368,8 @@ const collection = [
     "author": "Ignacio Flores, Angel Olmedo, Javier Muñoz",
     "published": '2023-02',
     "categories": ["medioambiente", "ciudades"],
-    "coverSmall": "https://ifdlm.github.io/Una-nueva-ciudad/#section2",
-    "coverLarge": "https://ifdlm.github.io/Una-nueva-ciudad/#section2",
+    "coverSmall": "./covers-img/2023-02/basura.jpg",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://ifdlm.github.io/Una-nueva-ciudad/",
     "synopsis": "Microbasurales y su impacto en la ciudad de Santiago."
   },
@@ -378,8 +378,8 @@ const collection = [
     "author": "Daniel Cañete, Antonia Pinto, Santiago Castillo",
     "published": '2023-02',
     "categories": ["medioambiente", "infraestructura"],
-    "coverSmall": "https://antopinto.github.io/castores/",
-    "coverLarge": "https://antopinto.github.io/castores/",
+    "coverSmall": "./covers-img/2023-02/castor.png",
+    "coverLarge": "https://picsum.photos/200/300",
     "url": "https://antopinto.github.io/castores/",
     "synopsis": "Un análisis del impacto de los castores en Chile."
   },
@@ -388,8 +388,8 @@ const collection = [
     "author": "Franco Cicchetti, Belén Cisterna, Javiera Muñoz",
     "published": '2023-02',
     "categories": ["cine", "cultura", "Entretenimiento"],
-    "coverSmall": "https://fcicchettibal.github.io/Repositorio-Cicchetti-Munoz-Cisterna",
-    "coverLarge": "https://fcicchettibal.github.io/Repositorio-Cicchetti-Munoz-Cisterna",
+    "coverSmall": "./covers-img/2023-02/barbenheimer.jpg",
+    "coverLarge": "./covers-img/2023-02/barbenheimer.jpg",
     "url": "https://fcicchettibal.github.io/Repositorio-Cicchetti-Munoz-Cisterna",
     "synopsis": "Explora la influencia cultural de los éxitos cinematográficos 'Barbie' y 'Oppenheimer'."
   },

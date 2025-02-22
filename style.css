@@ -114,21 +114,22 @@ a.button:hover, a.button:focus {
     padding: 1em;
     width: auto;
 }
-.main-logo a.logo {
+.main-logo .logo {
     display: block;
-    width: 150px;
+    width: 300px;
     height: 40px;
-    text-indent: -9999px;
+    font-size: 18px;
+    font-weight: bolder;
+    text-indent: -9px;
     background-color: #fff;
     transition: background-color 250ms ease-out;
 }
 .main-logo a.logo:hover, .main-logo a.logo:focus {
-    background-color: #ecf0f1;
 }
 
 .menu-search {
     float: right;
-    width: calc(100% - 200px);
+    width: calc(100% - 350px);
 }
 
 /*
@@ -477,7 +478,7 @@ a.button:hover, a.button:focus {
     white-space: break-spaces;
     overflow: hidden;
     /*text-overflow: ellipsis;*/
-    line-height: 22px;
+    line-height: 28px;
 }
 .book-item p:not(.author) {
     display: block;
