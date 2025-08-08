@@ -1,5 +1,115 @@
 const collection = [
   {
+    "title": "Más espacio para la música en Santiago",
+    "author": "Antonia Appelgren, Luciana González, Analia Ortega",
+    "published": "2025-01",
+    "categories": ["música", "infraestructura", "eventos"],
+    "coverSmall": "./covers-img/2025-01/concierto.png",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://antoapple.github.io/Trabajo.semestre/",
+    "synopsis": "Explora los desafíos de infraestructura musical en Santiago."
+  },
+  {
+    "title": "Vigilantes de la pantalla",
+    "author": "Cecilia Orueta, Trinidad Riobó, Colomba Bolognesi",
+    "published": "2025-01",
+    "categories": ["televisión", "sociedad", "regulación"],
+    "coverSmall": "./covers-img/2025-01/cntv01.png",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://triobo.github.io/Repo_Proyecto_CNTV/",
+    "synopsis": "Revela cómo la audiencia fiscaliza la TV chilena."
+  },
+  {
+    "title": "Chile: un país de camas vacías y pacientes sin atención",
+    "author": "Gabriela Fernández, Italo Merino",
+    "published": "2025-01",
+    "categories": ["salud", "inequidad", "hospitales"],
+    "coverSmall": "./covers-img/2025-01/camas.jpg",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://italosciaraffia.github.io/Repo_Proyecto_Equipo-Fernandez-Merino/",
+    "synopsis": "Indaga en brechas estructurales del sistema hospitalario."
+  },
+  {
+    "title": "Lollapalooza: 13 años de brecha de género",
+    "author": "María Gracia García, Matías Venegas, Catalina Reyes",
+    "published": "2025-01",
+    "categories": ["música", "género", "festivales"],
+    "coverSmall": "./covers-img/2025-01/lolla.jpg",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://matiasvngs.github.io/Repositorio-proyecto-Lollapalooza/",
+    "synopsis": "Analiza la desigualdad de género en el festival chileno."
+  },
+  {
+    "title": "Apaga Spotify, la radio suena distinto",
+    "author": "Amelie Lefranc, Ignacio Stier",
+    "published": "2025-01",
+    "categories": ["música", "tecnología", "medios"],
+    "coverSmall": "./covers-img/2025-01/musica-urbana.jpeg",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://amelielefrancv.github.io/Entregas-Grafica/",
+    "synopsis": "Compara lo que suena en Spotify y la radio chilena."
+  },
+  {
+    "title": "Pop type",
+    "author": "Agustina Villavicencio",
+    "published": "2025-01",
+    "categories": ["cultura", "música", "identidad"],
+    "coverSmall": "./covers-img/2025-01/popstars.png",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://agustinavillavicencio.github.io/Proyecto-semestral/",
+    "synopsis": "Explora la identidad de las estrellas pop digitales."
+  },
+  {
+    "title": "De Seúl al mundo",
+    "author": "Andrea Antonello, Almendra Mendez, Daniela Avendaño",
+    "published": "2025-01",
+    "categories": ["K-pop", "cultura", "música"],
+    "coverSmall": "./covers-img/2025-01/kpop.png",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://almemm.github.io/Repo_proyecto_equipo-kpoper/",
+    "synopsis": "Recorre la expansión global del K-pop desde 2003."
+  },
+  {
+    "title": "Se busca Superstar",
+    "author": "Renata Velásquez, Nicolás Bossy, Belén Navarro",
+    "published": "2025-01",
+    "categories": ["televisión", "drag", "cultura pop"],
+    "coverSmall": "./covers-img/2025-01/superstars.webp",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://nbossy03.github.io/demodaydragrace",
+    "synopsis": "Analiza el impacto global de RuPaul’s Drag Race."
+  },
+  {
+    "title": "El streaming conquista Hollywood",
+    "author": "Benjamín Mahaluf, Paloma Fuenzalida",
+    "published": "2025-01",
+    "categories": ["cine", "streaming", "industria"],
+    "coverSmall": "./covers-img/2025-01/streaming.png",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://palomafuenzalidu.github.io/ENTREGAS2/",
+    "synopsis": "Revisa cómo el streaming impactó los Premios Oscar."
+  },
+  {
+    "title": "La copia feliz del Edén: ¿Es Chile un país seguro de visitar?",
+    "author": "Cristian Tapia, Daniel Moreno",
+    "published": "2025-01",
+    "categories": ["turismo", "seguridad", "percepción"],
+    "coverSmall": "./covers-img/2025-01/turismo.png",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://danielmorenoc1.github.io/paginaalertaturismo/",
+    "synopsis": "Contrasta la percepción de inseguridad y el turismo real."
+  },
+  {
+    "title": "UFC: Del dominio local a la explosión global",
+    "author": "Diego Labrín, Osvaldo Olmazabal, Bruno Rosales",
+    "published": "2025-01",
+    "categories": ["deportes", "UFC", "globalización"],
+    "coverSmall": "./covers-img/2025-01/ufc.png",
+    "coverLarge": "https://picsum.photos/200/300",
+    "url": "https://diegolabrin24.github.io/repositorio-labrin-olmazabal-rosales/",
+    "synopsis": "Explora la diversificación global del octágono UFC."
+  },
+  {
     "title": "Sonido Femenino",
     "author": "Antonia Correa, Valentina Rojas, Francisca Martínez",
     "published": '2024-02',
