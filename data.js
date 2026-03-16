@@ -1,4 +1,154 @@
 const collection = [
+    {
+        "title": "Punto Ciego",
+        "author": "Andrés Hernández, Paloma Riquelme, Josefa Mariñanco",
+        "published": "2025-02",
+        "categories": ["trenes", "infraestructura", "seguridad"],
+        "coverSmall": "./covers-img/2025-02/trenes.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://paliart28.github.io/Mi-primera-Pagina-web/",
+        "synopsis": "Analiza cómo los atropellos ferroviarios entre Estación Central y Maule revelan fallas estructurales, desigualdades territoriales y problemas de seguridad más allá de la imprudencia individual."
+    },
+    {
+        "title": "¡Date un gustito!",
+        "author": "Benjamín Astete, Antonia Middleton, Magdalena Sepúlveda",
+        "published": "2025-02",
+        "categories": ["moda", "consumo", "economía"],
+        "coverSmall": "./covers-img/2025-02/moda.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://mgsr20.github.io/Repositorio-grupal-astete-middleton-sepulveda/",
+        "synopsis": "Explora por qué la ropa sigue ocupando un lugar central en el consumo chileno incluso en contextos de crisis, inflación e inestabilidad económica."
+    },
+    {
+        "title": "El monstruo es latino",
+        "author": "Paloma Campos, Edel Cortés",
+        "published": "2025-02",
+        "categories": ["festival de viña", "música", "cultura popular"],
+        "coverSmall": "./covers-img/2025-02/vina.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://wrypalo.github.io/mi-primera-pagina-web/",
+        "synopsis": "Revisa la historia del Festival de Viña del Mar para mostrar cómo el certamen ha impulsado carreras artísticas y consolidado su proyección latinoamericana."
+    },
+    {
+        "title": "El boom del pistacho",
+        "author": "Lucía Figari, Catalina Vives, María José Gonzalez",
+        "published": "2025-02",
+        "categories": ["alimentación", "mercado", "tendencias"],
+        "coverSmall": "./covers-img/2025-02/pistacho.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://lfigari.github.io/Repo_Proyecto_Figari_Gonzalez_Vives/",
+        "synopsis": "Examina la transformación del pistacho desde un producto gourmet de nicho hasta una tendencia visible en supermercados, cafeterías y redes sociales."
+    },
+    {
+        "title": "Lágrimas de Miyazaki",
+        "author": "Dominga Chamorro, Matilde Vega, Renata Velásquez",
+        "published": "2025-02",
+        "categories": ["cine", "animación", "emociones"],
+        "coverSmall": "./covers-img/2025-02/miyazaki.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://d-chami.github.io/Proyecto_Chamorro_Vega_Velasquez/",
+        "synopsis": "Explora cómo las películas del universo Ghibli y de Miyazaki construyen emociones complejas a través de relatos profundamente humanos."
+    },
+    {
+        "title": "Los Premios Grammy en los últimos 25 años",
+        "author": "Antonia Kalebota, Laura Flores",
+        "published": "2025-02",
+        "categories": ["música", "premios", "industria musical"],
+        "coverSmall": "./covers-img/2025-02/grammy.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://antoka105.github.io/Entregas-Kalebota-y-Flores/",
+        "synopsis": "Investiga si los Grammy han tendido a premiar cada vez más a artistas populares y cómo eso dialoga con las listas de éxitos."
+    },
+    {
+        "title": "¡Pistas del rendimiento!",
+        "author": "Cristina Diaz, Monica Montero, Vicente Vásquez",
+        "published": "2025-02",
+        "categories": ["deporte", "panamericanos", "rendimiento"],
+        "coverSmall": "./covers-img/2025-02/panamericanos.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://cristinadiaztobar7.github.io/Webstory-de-Cristina-D-az-M-nica-Montero-y-Vicente-V-squez-/",
+        "synopsis": "Propone una mirada al rendimiento deportivo y a los sueños que se materializan en la pista a partir del legado competitivo de Santiago 2023."
+    },
+    {
+        "title": "Fieras de la televisión",
+        "author": "Martina, Merlina",
+        "published": "2025-02",
+        "categories": ["televisión", "género", "teleseries"],
+        "coverSmall": "./covers-img/2025-02/telenovelas.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://martina-astargo.github.io/Repo_proyecto_merlina_y_martina/",
+        "synopsis": "Analiza cómo las teleseries chilenas han representado a sus personajes femeninos y qué rupturas o estereotipos persisten en pantalla."
+    },
+    {
+        "title": "Perfección visual en los videojuegos Triple A",
+        "author": "Felipe, Gonzalo",
+        "published": "2025-02",
+        "categories": ["videojuegos", "industria", "tecnología"],
+        "coverSmall": "./covers-img/2025-02/videojuegos.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://fandrezs.github.io/Sitio-Web-Videojuegos-Triple-A/",
+        "synopsis": "Cuestiona la carrera de la industria Triple A por el hiperrealismo y sus efectos sobre el mercado, los costos y las alternativas creativas."
+    },
+    {
+        "title": "El legado de Santiago 2023",
+        "author": "Benjamín, Mario, Florencia",
+        "published": "2025-02",
+        "categories": ["atletismo", "deporte", "infraestructura"],
+        "coverSmall": "./covers-img/2025-02/atletismo.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://bkattanh.github.io/Repositorio_grupal_ulloa_pinto_kattan/",
+        "synopsis": "Revisa cómo los Juegos Panamericanos Santiago 2023 dejaron infraestructura, visibilidad y nuevos deportes instalados en la cultura deportiva chilena."
+    },
+    {
+        "title": "La Ruta Vegana",
+        "author": "Araceli, Bárbara",
+        "published": "2025-02",
+        "categories": ["gastronomía", "veganismo", "santiago"],
+        "coverSmall": "./covers-img/2025-02/ruta-vegana.jpg",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://barbaraconejero.github.io/proyecto_web-larutavegana/",
+        "synopsis": "Ofrece una guía para descubrir restaurantes veganos en Santiago, con recomendaciones, rankings y rutas para distintos gustos y presupuestos."
+    },
+    {
+        "title": "Disney Industry: la evolución de la magia",
+        "author": "Millaray, Josefa",
+        "published": "2025-02",
+        "categories": ["disney", "industria cultural", "entretenimiento"],
+        "coverSmall": "./covers-img/2025-02/disney.jpg",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://josefachacana.github.io/Repo_proyecto_disney/",
+        "synopsis": "Examina cómo Disney pasó de crear mundos originales a depender cada vez más de franquicias, remakes y expansiones de universos conocidos."
+    },
+    {
+        "title": "Siempre los mismos gatos",
+        "author": "Renato Quevedo, Silvia Matamala, Blanca Ríos",
+        "published": "2025-02",
+        "categories": ["cine chileno", "audiovisual", "documentales"],
+        "coverSmall": "./covers-img/2025-02/cine-chileno.gif",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://silviamatamala.github.io/primer-sitio-web/",
+        "synopsis": "Analiza la producción cinematográfica chilena reciente y contrasta el peso de los documentales frente a la ficción en las últimas décadas."
+    },
+    {
+        "title": "Caperucita Roja y las Dos Canastas",
+        "author": "Lukas, Judith, Francine",
+        "published": "2025-02",
+        "categories": ["veganismo", "consumo", "alimentación"],
+        "coverSmall": "./covers-img/2025-02/canasta-vegana.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://franleonb.github.io/proyecto-semestral/",
+        "synopsis": "Compara consumo, accesibilidad y percepciones en torno a los productos veganos para mostrar que la diferencia no siempre está en el precio."
+    },
+    {
+        "title": "Estadio de datos: Copa Mundial Sub-20 Chile 2025",
+        "author": "Alberto, Amaro",
+        "published": "2025-02",
+        "categories": ["fútbol", "estadísticas", "mundial sub-20"],
+        "coverSmall": "./covers-img/2025-02/futbol.png",
+        "coverLarge": "https://picsum.photos/200/300",
+        "url": "https://amarogm.github.io/Repositorio-gonzalez-alcazar-rojas/",
+        "synopsis": "Explora el Mundial Sub-20 Chile 2025 desde una mirada estadística, relacionando minutos jugados, experiencia previa y rendimiento juvenil."
+    },
   {
     "title": "Más espacio para la música en Santiago",
     "author": "Antonia Appelgren, Luciana González, Analia Ortega",
