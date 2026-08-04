@@ -164,7 +164,7 @@ const collection = [
         "author": "Elías Letelier, Fernando Muñoz",
         "published": "2026-01",
         "categories": ["fútbol", "superclásico", "arbitraje"],
-        "coverSmall": "./covers-img/2026-01/superclasico.png",
+        "coverSmall": "./covers-img/2026-01/superclasico.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://eliasletelier.github.io/Repo_Proyecto_Equipo/",
         "synopsis": "Cuestiona el mito de la agresividad en el Superclásico analizando faltas y arbitrajes entre Colo-Colo y la U."
