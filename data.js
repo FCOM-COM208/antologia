@@ -44,7 +44,7 @@ const collection = [
         "author": "Carolina Arratia, Virginia Bravo, Martina Finkenberger",
         "published": "2026-01",
         "categories": ["fauna", "medioambiente", "conservación"],
-        "coverSmall": "./covers-img/2026-01/especies.png",
+        "coverSmall": "./covers-img/2026-01/especies.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://carolinaarratia.github.io/Especies-al-limite/",
         "synopsis": "Presenta las categorías de riesgo de extinción en Chile a través de especies como el picaflor de Juan Fernández, el gato colocolo y la rana de pecho espinoso."
