@@ -1,193 +1,193 @@
 const collection = [
     {
-        "title": "Géneros de Cine",
+        "title": "Cuando la taquilla dejó de ir a los Oscar",
         "author": "Alvaro Jopia, Olivia López, Isidora Zapata",
         "published": "2026-01",
-        "categories": ["cine", "géneros cinematográficos", "cultura"],
+        "categories": ["cine", "taquilla", "premios Oscar"],
         "coverSmall": "./covers-img/2026-01/cine.png",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://isizapata.github.io/Repo_Proyecto_Equipo-cine/",
-        "synopsis": "Explora la evolución y popularidad de los distintos géneros de cine a lo largo del tiempo."
+        "synopsis": "Explora la distancia creciente entre el éxito de taquilla y los premios Oscar, y cómo Hollywood separó el éxito comercial del prestigio cinematográfico."
     },
     {
-        "title": "Mujeres en política",
+        "title": "Mujeres al Mando",
         "author": "Catalina Letelier, Sofía Irribarra, Catalina Marambio",
         "published": "2026-01",
-        "categories": ["política", "mujeres", "sociedad"],
-        "coverSmall": "./covers-img/2026-01/mujeres-politica.png",
+        "categories": ["política", "mujeres", "historia"],
+        "coverSmall": "./covers-img/2026-01/mujeres-politica.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://catalinaletelier.github.io/proyecto_grupal/",
-        "synopsis": "Analiza la participación y presencia de mujeres en cargos políticos en Chile."
+        "synopsis": "Recorre los hitos de la representación política femenina en Chile, desde el voto municipal de 1934 hasta las alcaldesas y ministras actuales."
     },
     {
-        "title": "Deshielo de Glaciares",
+        "title": "Mi hogar se está derritiendo",
         "author": "Clarita Díaz, Valentina Sabag, Josefa Gallegos",
         "published": "2026-01",
-        "categories": ["medioambiente", "glaciares", "cambio climático"],
+        "categories": ["medioambiente", "glaciares", "patagonia"],
         "coverSmall": "./covers-img/2026-01/glaciares.png",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://claritadiaz1.github.io/Repo_Proyecto_Equipo/",
-        "synopsis": "Examina el retroceso de los glaciares chilenos y sus consecuencias ambientales."
+        "synopsis": "Shoan, un huemul de la Patagonia, narra en primera persona la historia del deshielo de los glaciares chilenos."
     },
     {
-        "title": "Miss Universo",
+        "title": "Detrás de la corona",
         "author": "Antonia Araya, Emilia Bertran, Anghy Gil",
         "published": "2026-01",
         "categories": ["belleza", "certámenes", "cultura popular"],
         "coverSmall": "./covers-img/2026-01/miss-universo.png",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://emiliabertran.github.io/proyecto-araya-bertran-gil/",
-        "synopsis": "Revisa la historia y transformación del certamen Miss Universo a través de los años."
+        "synopsis": "Repasa la historia de las chilenas que han competido en Miss Universo y lo que hay detrás del brillo del certamen."
     },
     {
-        "title": "Especies en peligro de extinción",
+        "title": "Especies al Límite",
         "author": "Carolina Arratia, Virginia Bravo, Martina Finkenberger",
         "published": "2026-01",
         "categories": ["fauna", "medioambiente", "conservación"],
-        "coverSmall": "./covers-img/2026-01/especies.png",
+        "coverSmall": "./covers-img/2026-01/especies.jpeg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://carolinaarratia.github.io/Especies-al-limite/",
-        "synopsis": "Aborda la situación de las especies chilenas en riesgo de extinción y los esfuerzos de conservación."
+        "synopsis": "Presenta las categorías de riesgo de extinción en Chile a través de especies como el picaflor de Juan Fernández, el gato colocolo y la rana de pecho espinoso."
     },
     {
-        "title": "Transporte Público",
+        "title": "Santiago a destiempo",
         "author": "Makarena Poblete, Federico Allendes",
         "published": "2026-01",
-        "categories": ["transporte", "ciudades", "infraestructura"],
-        "coverSmall": "./covers-img/2026-01/transporte.png",
+        "categories": ["transporte", "santiago", "movilidad"],
+        "coverSmall": "./covers-img/2026-01/transporte.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://fedeallendesy.github.io/repo_proyecto_equipo/",
-        "synopsis": "Analiza el estado y los desafíos del transporte público en las ciudades chilenas."
+        "synopsis": "Analiza los tiempos de espera y la renovación de la flota del transporte público en Santiago."
     },
     {
-        "title": "Parlamentarios",
+        "title": "Representar o Fragmentar",
         "author": "Santiago Alcázar, Emerson Urriola",
         "published": "2026-01",
         "categories": ["política", "congreso", "elecciones"],
         "coverSmall": "./covers-img/2026-01/parlamentarios.png",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://emerurriola.github.io/repositorio-Emer-Chago/",
-        "synopsis": "Investiga el desempeño y trayectoria de los parlamentarios chilenos."
+        "synopsis": "Examina la fragmentación de la Cámara de Diputados chilena entre 1989 y 2025."
     },
     {
-        "title": "Smog en Santiago",
+        "title": "Desigualdad en el aire",
         "author": "Josefa Cánepa",
         "published": "2026-01",
         "categories": ["medioambiente", "contaminación", "santiago"],
-        "coverSmall": "./covers-img/2026-01/smog.png",
+        "coverSmall": "./covers-img/2026-01/smog.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://pepacanepa.github.io/Proyecto-Smog-3/",
-        "synopsis": "Estudia la evolución de la contaminación atmosférica en Santiago y sus efectos en la salud."
+        "synopsis": "Visualiza la evolución de la contaminación del aire en Santiago mediante datos históricos de calidad del aire."
     },
     {
-        "title": "Circos",
+        "title": "Ocaso del Látigo",
         "author": "Agustina Ascuí",
         "published": "2026-01",
-        "categories": ["cultura", "circo", "entretenimiento"],
-        "coverSmall": "./covers-img/2026-01/circos.png",
+        "categories": ["circo", "animales", "cultura"],
+        "coverSmall": "./covers-img/2026-01/circos.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://agustinaascui.github.io/proyecto-evoluci-n-del-circo/",
-        "synopsis": "Recorre la evolución del circo en Chile y sus transformaciones culturales."
+        "synopsis": "Explora la transformación de la identidad circense chilena frente al declive del uso de animales en el espectáculo."
     },
     {
-        "title": "Natalidad",
+        "title": "Chile nace menos",
         "author": "Isidora Infante, Farah Jadue, Emilia Valenzuela",
         "published": "2026-01",
         "categories": ["demografía", "sociedad", "natalidad"],
-        "coverSmall": "./covers-img/2026-01/natalidad.png",
+        "coverSmall": "./covers-img/2026-01/natalidad.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://emiliavalenzuela.github.io/repo_proyecto_equipo-natalidad/",
-        "synopsis": "Examina la caída de la tasa de natalidad en Chile y sus implicancias sociales."
+        "synopsis": "Contrasta el debate público sobre la crisis de natalidad con lo que realmente muestran los datos demográficos en Chile."
     },
     {
-        "title": "Rock Latino",
+        "title": "La Banda Sonora de la Memoria",
         "author": "Asunción Luna, Geraldine González",
         "published": "2026-01",
-        "categories": ["música", "rock latino", "cultura"],
-        "coverSmall": "./covers-img/2026-01/rock-latino.png",
+        "categories": ["música", "rock chileno", "cultura"],
+        "coverSmall": "./covers-img/2026-01/rock-latino.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://geraldinegonz.github.io/rocklatino.github.io/",
-        "synopsis": "Recorre la historia y el legado del rock latino en la región."
+        "synopsis": "Recorre la historia del rock chileno como banda sonora de la memoria colectiva del país."
     },
     {
         "title": "¿Escuchamos lo mismo en Latam?",
         "author": "Carol Mardones",
         "published": "2026-01",
         "categories": ["música", "streaming", "latinoamérica"],
-        "coverSmall": "./covers-img/2026-01/spotify-latam.png",
+        "coverSmall": "./covers-img/2026-01/spotify-latam.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://caritoofml.github.io/webstory-spotify-latinoamerica/",
-        "synopsis": "Compara los gustos musicales en distintos países de Latinoamérica a través de Spotify."
+        "synopsis": "Compara los rankings de Spotify entre países de Latinoamérica para ver cuánto se parecen sus gustos musicales."
     },
     {
-        "title": "Plataformas de streaming y kdramas",
+        "title": "Del cable al streaming",
         "author": "Celeste Elgueta, Carolina Retamal, Benjamín Zañartu",
         "published": "2026-01",
-        "categories": ["streaming", "kdramas", "entretenimiento"],
-        "coverSmall": "./covers-img/2026-01/kdramas.png",
+        "categories": ["streaming", "kdramas", "televisión"],
+        "coverSmall": "./covers-img/2026-01/kdramas.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://bennja14.github.io/repo_proyecto_kdramas-/",
-        "synopsis": "Analiza el auge de los kdramas en las plataformas de streaming."
+        "synopsis": "Retrata el camino de los kdramas desde la señal por cable hasta el auge en las plataformas de streaming."
     },
     {
         "title": "ADN del rock latino",
         "author": "Josefina Contreras",
         "published": "2026-01",
         "categories": ["música", "rock latino", "cultura"],
-        "coverSmall": "./covers-img/2026-01/adn-rock.png",
+        "coverSmall": "./covers-img/2026-01/adn-rock.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://josefina-contreras17.github.io/pepelin666/",
-        "synopsis": "Explora las raíces y elementos característicos que definen al rock latino."
+        "synopsis": "Diseca la canción promedio del rock chileno de los años 80 y 90 para encontrar su fórmula común."
     },
     {
-        "title": "Santiago en 100 palabras",
+        "title": "Santiago en 100 Palabras: 4 Comunas",
         "author": "Luciano Zolezzi, Bruno Cabrera",
         "published": "2026-01",
-        "categories": ["literatura", "santiago", "cultura"],
-        "coverSmall": "./covers-img/2026-01/santiago-100.png",
+        "categories": ["literatura", "santiago", "comunas"],
+        "coverSmall": "./covers-img/2026-01/santiago-100.jpeg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://lucianozp.github.io/santiago-en-100-palabras/",
-        "synopsis": "Analiza el concurso literario Santiago en 100 palabras y su impacto cultural."
+        "synopsis": "Analiza los microcuentos del concurso Santiago en 100 Palabras a través de cuatro comunas de la capital."
     },
     {
-        "title": "Lollaperformances",
+        "title": "LollaPerformances",
         "author": "Fernanda Álvarez, Beatriz Ahumada, Fernanda Lillo",
         "published": "2026-01",
         "categories": ["música", "festivales", "lollapalooza"],
-        "coverSmall": "./covers-img/2026-01/lollapalooza.png",
+        "coverSmall": "./covers-img/2026-01/lollapalooza.jpg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://fernandalillobe.github.io/Repo_Proyecto_Equipo_Lollapalooza/",
-        "synopsis": "Revisa las presentaciones más destacadas de Lollapalooza Chile."
+        "synopsis": "Muestra cómo Lollapalooza pasó de la música en vivo a montar verdaderos conciertos teatrales."
     },
     {
-        "title": "Faltas en el superclásico",
+        "title": "Esto es más que fútbol",
         "author": "Elías Letelier, Fernando Muñoz",
         "published": "2026-01",
-        "categories": ["fútbol", "superclásico", "deporte"],
+        "categories": ["fútbol", "superclásico", "arbitraje"],
         "coverSmall": "./covers-img/2026-01/superclasico.png",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://eliasletelier.github.io/Repo_Proyecto_Equipo/",
-        "synopsis": "Analiza las infracciones y el arbitraje en los superclásicos del fútbol chileno."
+        "synopsis": "Cuestiona el mito de la agresividad en el Superclásico analizando faltas y arbitrajes entre Colo-Colo y la U."
     },
     {
-        "title": "Fútbol y dinero",
+        "title": "El mito de los millones",
         "author": "Patricio Gómez, Felipe Hinojosa, Martin Aliste",
         "published": "2026-01",
         "categories": ["fútbol", "economía", "deporte"],
         "coverSmall": "./covers-img/2026-01/futbol-dinero.png",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://martinaliste08.github.io/futbolchileno/",
-        "synopsis": "Examina el flujo de dinero y las cifras detrás del fútbol chileno."
+        "synopsis": "Desarma el mito de los sueldos millonarios en el fútbol chileno con cifras reales del mercado."
     },
     {
-        "title": "Votos nulos",
+        "title": "Anúlemelo",
         "author": "Vicente Soza, Erick Liu, Florencia Aguirre",
         "published": "2026-01",
         "categories": ["política", "elecciones", "votos nulos"],
         "coverSmall": "./covers-img/2026-01/votos-nulos.png",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://liuerick.github.io/Anulemelo/",
-        "synopsis": "Investiga el fenómeno de los votos nulos y blancos en las elecciones chilenas."
+        "synopsis": "Reportaje visual sobre la evolución de los votos nulos y blancos en las elecciones presidenciales chilenas entre 1989 y 2025."
     },
     {
         "title": "Punto Ciego",
