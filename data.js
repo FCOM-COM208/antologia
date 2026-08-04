@@ -34,7 +34,7 @@ const collection = [
         "author": "Antonia Araya, Emilia Bertran, Anghy Gil",
         "published": "2026-01",
         "categories": ["belleza", "certámenes", "cultura popular"],
-        "coverSmall": "./covers-img/2026-01/miss-universo.png",
+        "coverSmall": "./covers-img/2026-01/miss-universo.jpeg",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://emiliabertran.github.io/proyecto-araya-bertran-gil/",
         "synopsis": "Repasa la historia de las chilenas que han competido en Miss Universo y lo que hay detrás del brillo del certamen."
@@ -44,7 +44,7 @@ const collection = [
         "author": "Carolina Arratia, Virginia Bravo, Martina Finkenberger",
         "published": "2026-01",
         "categories": ["fauna", "medioambiente", "conservación"],
-        "coverSmall": "./covers-img/2026-01/especies.jpeg",
+        "coverSmall": "./covers-img/2026-01/especies.png",
         "coverLarge": "https://picsum.photos/200/300",
         "url": "https://carolinaarratia.github.io/Especies-al-limite/",
         "synopsis": "Presenta las categorías de riesgo de extinción en Chile a través de especies como el picaflor de Juan Fernández, el gato colocolo y la rana de pecho espinoso."
